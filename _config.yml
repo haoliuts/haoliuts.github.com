@@ -8,14 +8,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Haoliuts Blog
+title : Claymore
 tagline: Site Tagline
 author :
   name : Hao Liu
   email : haoliuts@gmail.com
-  github : username
-  twitter : username
-  feedburner : feedname
+  github : haoliuts
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
